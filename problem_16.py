@@ -1,6 +1,6 @@
 # Project Euler Solutions by Ali Eskici
 # github.com/alieskici
-import time, os
+import os
 os.system('cls')
 
 """
